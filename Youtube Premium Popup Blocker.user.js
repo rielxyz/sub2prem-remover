@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Subscribe to Premium Popup Blocker
+// @name         Youtube Premium Popup Blocker
 // @namespace    http://tampermonkey.net/
 // @version      6.0
 // @description  Remove Youtube Subscribe to Premium popups
