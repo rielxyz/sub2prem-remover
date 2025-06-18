@@ -29,10 +29,10 @@ While adblockers effectively block most advertisements, they don't prevent YouTu
 6. Save (Ctrl+S / Cmd+S)
 7. Refresh YouTube
 
-## ⚙ Configuration
+## Configuration
 
 ### Disable Notifications
-To turn off the "Ad Removed ✓" notifications, change line 4:
+To turn off the "Ad Removed" notifications, change line 4:
 ```javascript
 const SHOW_NOTIFICATIONS = false;
 ```
@@ -81,7 +81,7 @@ color: black;
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer
 
@@ -94,4 +94,4 @@ This script is for educational purposes. Use responsibly and in accordance with 
 
 ---
 
-**Star ⭐ this repository if it helped you enjoy ad-free YouTube!**
+**Star this repository if it helped you enjoy ad-free YouTube!**
