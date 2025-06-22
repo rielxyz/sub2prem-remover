@@ -5,7 +5,7 @@ A Tampermonkey userscript that automatically removes YouTube's annoying Premium 
 ## The Problem
 
 Sure adblockers effectively block most advertisements, but do they also prevent YouTube's upsell dialog "Subscribe to Premium" popup that appears every 15 seconds during video playback?
-![Example](images/ex.png)
+![Example](ex.png)
 
 ## Installation
 
